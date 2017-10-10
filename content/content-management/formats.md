@@ -105,7 +105,7 @@ markup: mmark
 ```
 
 {{% warning %}}
-Thare are some features not available in Mmark; one example being that shortcodes are not translated when used in an included `.mmark` file ([#3131](https://github.com/gohugoio/hugo/issues/3137)), and `EXTENSION_ABBREVIATION` ([#1970](https://github.com/gohugoio/hugo/issues/1970)) and the aforementioned GFM todo lists ([#2270](https://github.com/gohugoio/hugo/issues/2270)) are not fully supported. Contributions are welcome.
+Thare are some features not available in Mmark: shortcodes are not translated when used in an included `.mmark` file ([#3131](https://github.com/gohugoio/hugo/issues/3137)); `EXTENSION_ABBREVIATION` ([#1970](https://github.com/gohugoio/hugo/issues/1970)); table of contents ([#3719](https://github.com/gohugoio/hugo/issues/3719));  and the aforementioned GFM todo lists ([#2270](https://github.com/gohugoio/hugo/issues/2270)) are not fully supported. Contributions are welcome.
 {{% /warning %}}
 
 ## MathJax with Hugo
